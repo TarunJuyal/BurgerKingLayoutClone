@@ -160,3 +160,46 @@ a {
   padding: 5px 5px;
   color: white;
 }
+#footer {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  width: inherit;
+  height: 650px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to right, black, grey);
+}
+#options {
+  padding: 30px;
+  display: flex;
+}
+#options span {
+  font-size: 30px;
+  color: white;
+}
+#options ul li {
+  padding: 5px;
+  list-style-type: none;
+}
+#options ul li a {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: white;
+}
+#footer div i {
+  margin: 10px;
+}
+#footer span {
+  font-size: 30px;
+}
+sub {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+}
+#backtotop {
+  background-color: rgba(253, 154, 5, 0.959);
+  font-size: 2vw;
+  padding: 5px 5px;
+  color: white;
+}
